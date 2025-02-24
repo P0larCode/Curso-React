@@ -1,0 +1,3 @@
+cd C:\Users\Cesar\OneDrive\Escritorio\React\2-intro-react
+
+npm run dev
